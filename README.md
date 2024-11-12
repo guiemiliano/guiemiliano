@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guiemiliano
-- 👀 I’m interested in Music and Games
+- 👀 I’m interested in Music and Technology
 - 🌱 I’m currently learning about Java and other languages
 
 
